@@ -1,4 +1,3 @@
 venv/
-*.log
-*.pyc
 python.py
+scriptused.py
