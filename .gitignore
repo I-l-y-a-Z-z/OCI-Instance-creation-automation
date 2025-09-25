@@ -1,0 +1,4 @@
+venv/
+*.log
+*.pyc
+python.py
