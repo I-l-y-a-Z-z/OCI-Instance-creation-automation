@@ -91,7 +91,9 @@ python script.py
 The script will start attempting to create the instance. You will see output messages indicating its progress.
 
 -   **On Success**: It will print the new instance's name and OCID and then exit.
+-   ![Alt text](images/success.png)
 -   **On Failure**: It will print the error message from the OCI service, wait for 60 seconds, and then try again indefinitely.
+-   ![Alt text](images/failed.png)
 
 To stop the script, press `Ctrl+C`.
 
